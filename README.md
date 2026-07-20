@@ -1,6 +1,6 @@
-readme_content = """# BotJawir - Telegram Gemini AI Bot 🤖
+readme_content = """# BotRen - Telegram Gemini AI Bot 🤖
 
-**BotJawir** adalah Telegram Bot berbasis Python yang memanfaatkan **Google Gemini AI API** untuk memberikan respon otomatis yang cepat, cerdas, dan interaktif. Bot ini dilengkapi dengan fitur pengolahan pesan teks secara *streaming*, kemampuan menganalisis/membaca gambar, proteksi *anti-spam*, serta sistem *logging* internal.
+**BotRen** adalah Telegram Bot berbasis Python yang memanfaatkan **Google Gemini AI API** untuk memberikan respon otomatis yang cepat, cerdas, dan interaktif. Bot ini dilengkapi dengan fitur pengolahan pesan teks secara *streaming*, kemampuan menganalisis/membaca gambar, proteksi *anti-spam*, serta sistem *logging* internal.
 
 ---
 
@@ -33,5 +33,5 @@ Sebelum menjalankan bot ini, pastikan Anda telah menyiapkan:
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/username-anda/BotJawir.git](https://github.com/username-anda/BotJawir.git)
-cd BotJawir
+git clone [https://github.com/Rochwidias/bot-telegram-chat-bot-with-gemini-api](https://github.com/Rochwidias/bot-telegram-chat-bot-with-gemini-api)
+cd BotJawir# bot-telegram-chat-bot-with-gemini-api
